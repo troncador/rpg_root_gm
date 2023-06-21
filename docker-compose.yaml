@@ -1,0 +1,12 @@
+services:
+  node:
+    image: node
+    command: '/my-app/node_modules/.bin/react-scripts start'
+    working_dir: /my-app
+    volumes:
+      - ./my-app:/my-app
+    restart: always
+    stdin_open: true
+    tty: true
+    expose:
+      - 3000

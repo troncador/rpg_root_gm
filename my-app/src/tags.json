@@ -1,0 +1,268 @@
+{
+    "arrow-proof": {
+            "description": "Ignore the ﬁrst injury you suﬀer from arrows in a scene.",
+            "type": [
+                "armor"
+            ]
+    },
+    "blunted": {
+            "description": "This weapon inﬂicts exhaustion, not injury.",
+            "type": [
+                "hammer",
+                "stuff"
+            ]
+    },
+    "bulky": {
+        "description": "This weapon cannot be hidden and is always visible while on your body. Mark exhaustion whenever you attempt a roguish feat or trust fate to sneak, hide, blindside, or perform an act of acrobatics",
+        "type": [
+            "large weapon"
+        ],
+        "value": -1
+    },
+    "catfolk steal": {
+        "description": "Mark wear when engaging in melee to shift your range one step, even on a miss",
+        "type": [
+            "armor",
+            "weapon"
+        ]
+    },
+    "ceremonial": {
+        "description": "Choose an attached faction. While this item is displayed, treat yourself as having +1 Reputation with that faction, and -1 Reputation with other factions",
+        "type": [
+            "anything"
+        ]
+    },
+    "comfortable": {
+        "description": "This item counts as 1 fewer load",
+        "type": [
+            "armor"
+        ]
+    },
+    "eaglecraft": {
+        "description": "Mark wear when engagin in melee to suffer 1 fewer harm even on a miss",
+        "type": [
+            "weapon"
+        ]
+    },
+    "cumbersome": {
+        "description": "Mark one exhaustion while you wear your armor—clear one exhaustion when you take it oﬀ. ",
+        "type": [
+            "heavy armor"
+        ],
+        "value": -1
+    },
+    "barbed": {
+        "description": "When you catch someone with this weapon's end, mark exhaustion to move to intimate range and grapple them as if you had rolled a 10+",
+        "type": [
+            "weapon"
+        ]
+    },
+    "fast": {
+        "description": "Mark decay when engaging sword-to-sword to suﬀer 󰀱 fewer harm, even on a miss ",
+        "type": [
+            "small weapon",
+            "fast weapon"
+        ]
+    },
+    "fragile": {
+        "description": "When you make a weapon move with this weapon, mark wear on it. Mark exhaustion to ignore this effect",
+        "type": [
+            "light weapon"
+        ],
+        "value": -1
+    },
+    "friendly": {
+        "description": "When you meet someone important, mark exhaustion to rool with Reputation +1",
+        "type": [
+            "armor",
+            "staff"
+        ]
+    },
+    "flexible": {
+        "description": "When you grapple with someone, mark exhaustion to ignore the ﬁrst choice they make. ",
+        "type": [
+            "armor"
+        ]
+    },
+    "foxfolk steel": {
+        "description": "Ignore the ﬁrst box of decay you mark on this item each scene. ",
+        "type": [
+            "weapon",
+            "armor"
+        ]
+    },
+    "hair trigger": { 
+        "description": "Mark decay to target at close range.",
+        "type": [
+            "crossbow"
+        ]
+    },
+    "hated": {
+        "description": "",
+        "type": [
+            "anything"
+        ],
+        "value": -1
+    },
+    "heavy bludgeon": {
+        "description": "Mark exhaustion to to ignore the enemy’s armor when you inﬂict an injury. ",
+        "type": [
+            "hammer",
+            "mace"
+        ]
+    },
+    "iron bolts": {
+        "description": "Ignore the enemy’s armor when you inﬂict an injury. ",
+        "type": [
+            "bow",
+            "crossbow"
+        ]
+    },
+    "large": {
+        "description": "Mark exhaustion to aﬀect a second target within reach with the results of your “engage sword-to-sword” move; they inﬂict harm on you as well. ",
+        "type": [
+            "weapon"
+        ]
+    },
+    "luxury": {
+        "description": "After creation, this item is worth +3 Value",
+        "type": [
+            "anything"
+        ]
+    },
+    "mousefolk steel": {
+        "description": "Mark decay on this weapon to engage sword-to-sword with Cunning instead of Might. ",
+        "type": [
+            "weapon"
+        ]
+    },
+    "mighty": {
+        "description": "When you wreck something with this item, mark 2-wear to shift to a 7-9 to a 10+ result",
+        "type": [
+            "explosive",
+            "heavy weapon"
+        ]
+    },
+    "oiled string": {
+        "description": "Mark decay to murder at close range.",
+        "type": [
+            "bow"
+        ]
+    },
+    "quick": {
+        "description": "Mark exhaustion with this weapon to engage sword-to-sword with Finesse instead of Might.",
+        "type": [
+            "small weapon"
+        ]
+    },
+    "rabbitfolk steel": {
+        "description": "Mark decay on this weapon to engage sword-to-sword using Finesse instead of Might. ",
+        "type": [
+            "weapon"
+        ]
+    
+    },
+    "reach": {
+        "description": "Mark decay on this weapon to nullify an enemy’s non-reach return strike when you engage them sword-to-sword. ",
+        "type": [
+            "large weapon"
+        ]
+    },
+    "sharp": {
+        "description": "Mark decay when engaging sword-to-sword to inﬂict additional harm, even on a miss. ",
+        "type": [
+            "edged weapon"
+        ]
+    },
+    "tightly woven": {
+        "description": "When you take a few seconds to repair afer a ﬁght, clear 󰀱 box of decay on this item. ",
+        "type": [
+            "chain armor"
+        ]        
+    },
+    "tricky": {
+        "description": "When you use this item to trick an NPC by distracting them at a distance, on a 7-9 mark wear to eliminate one option from the trick an NPC move before the NPC picks",
+        "type": [
+            "bolas",
+            "bows"
+        ]        
+    },
+    "unassuming": {
+        "description": "Until you harm an enemy, they will never deem you more of a thret than other vagabonds with arms and armor",
+        "type": [
+            "robe",
+            "staff"
+        ]        
+    },
+    "versatile": {
+        "description": "You can engage sword-to-sword with this weapon at intimate range and close range. ",
+        "type": [
+            "fast weapon"
+        ]
+    },
+    "short limbs": {
+        "description": "Mark wear to fire a quick shot at far range",
+        "type": [
+            "small bow"
+        ]
+    },
+    "shoddy": {
+        "description": "Repairing this item costs twice as much Value per box of wear cleared",
+        "type": [
+            "anything"
+        ],
+        "value": -1
+    },
+    "signature": {
+        "description": "Whenever you earn prestige or notoriety while showing this item, mark 1 additional prestige or notoriety",
+        "type": [
+            "anything"
+        ]
+    },
+    "slow": {
+        "description": "When you engage in melle wiht this weapon, choose one fewer option. Mark wear to ignore this effect",
+        "type": [
+            "heavy weapon"
+        ],
+        "value": -1
+    },
+    "thick": {
+        "description": "When you mark wear on this shield to block a hit, you only ever mark 1-wear, even if you are blocking more harm from a single hit",
+        "type": [
+            "shield"
+        ]
+    },
+    "throwable": {
+        "description": "Mark exhaustion to target a vulnerable foe with this weapon at far range",
+        "type": [
+            "dagger",
+            "grenade"
+        ]
+    },
+    "ugly": {
+        "description": "Take -1 to meet someone important while they can see this item Mark exhaustion to hide it",
+        "type": [
+            "weapon"
+        ]
+    },
+    "unwieldly": {
+        "description": "Take a -1 to all weapon moves- both basic and special weapon moves-made with this weapon. Mark exhaustion to ignore this effect",
+        "type": [
+            "weapon"
+        ]
+    },
+    "weighty": {
+        "description": "This item counts for two additional boxes of decay when determining i a vagabond is burdened.",
+        "type": [
+            "anything large"
+        ],
+        "value": -1
+    },
+    "wicked": {
+        "description": "Anyone who sees this weapon will deem its wielder a thread, at least to be watched carefully. When you inflict any harm with this weapon, mark notoriety with an observing faction for each harm inflicted",
+        "type": [
+            "cruel weapon"
+        ],
+        "value": -1
+    }
+}

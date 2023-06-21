@@ -1,0 +1,254 @@
+{
+    "other ": {
+        "refreshing": {},
+        "med-kit": {},
+        "thief kit": {}
+    },
+    "equipment": {
+        "leather armor": {
+            "wear": 2,
+            "value": 3,
+            "load": 1,
+            "tags": ["flexible"]
+        },
+        "chain mail": {
+            "wear": 3,
+            "value": 3,
+            "load": 2,
+            "tags": ["weighty", "tightly woven"]
+        },
+        "plate armor": {
+            "wear": 4,
+            "value": 3,
+            "load": 2,
+            "tags": ["arrow-proof", "cumbersome", "weighty"]
+        },
+        "robes": {
+            "wear": 1,
+            "value": 2,
+            "load": 1,
+            "tags": ["unassuming"]
+        },
+        "battle axe": {
+            "range": ["close"],
+            "wear": 3,
+            "value": 6,
+            "load": 1,
+            "skills": ["cleave", "storm a group"],
+            "tags": ["large"]
+        },
+        "birth catcher": {
+            "range": ["close"],
+            "wear": 2,
+            "value": 5,
+            "load": 1,
+            "skills": ["vicious strike"],
+            "tags": ["reach", "barbed"]
+        },
+        "blowgun": {
+            "range": ["far"],
+            "wear": 2,
+            "value": 3,
+            "load": 1,
+            "harm": "exhaustion",
+            "skills": [],
+            "tags": ["poison"]
+        },
+        "club": {
+            "range": ["close"],
+            "wear": 3,
+            "value": 5,
+            "load": 1,
+            "skills": ["disarm", "cleave"],
+            "tags": ["heavy bludgeon", "slow"]
+        },
+        "dagger": {
+            "range": ["intimate", "close"],
+            "wear": 1,
+            "value": 5,
+            "load": 0,
+            "skills": ["parry", "vicious strike"],
+            "tags": ["quick"]
+        },
+        "daggers pair": {
+            "range": ["intimate", "close"],
+            "wear": 2,
+            "value": 8,
+            "load": 0,
+            "skills": ["vicious strike"],
+            "tags": ["quick", "throwable", "akimbo"]
+        },
+        "hallberd": {
+            "range": ["close"],
+            "wear": 3,
+            "value": 6,
+            "load": 0,
+            "skills": ["cleave", "disarm"],
+            "tags": ["reach"]
+        },
+        "longbow": {
+            "range": ["far"],
+            "wear": 3,
+            "value": 6,
+            "load": 1,
+            "skills": ["harry", "trick shot"],
+            "tags": ["heavy draw weight"]
+        },
+        "longsword": {
+            "range": ["close"],
+            "wear": 3,
+            "value": 5,
+            "load": 1,
+            "skills": ["parry"],
+            "tags": ["sharp"]
+        },
+        "mouseFolk short sword": {
+            "range": ["close"],
+            "wear": 3,
+            "value": 6,
+            "load": 1,
+            "skills": ["parry", "disarm"],
+            "tags": ["mousefolk steel"]
+        },
+        "foxfolk longsword": {
+            "range": ["close"],
+            "wear": 2,
+            "value": 5,
+            "load": 1,
+            "skills": ["disarm", "vicious strike"],
+            "tags": ["foxfolk steel"]
+        },
+        "rabbitfolk longsword": {
+            "range": ["close"],
+            "wear": 2,
+            "value": 4,
+            "load": 1,
+            "skills": ["disarm"],
+            "tags": ["rabbitfolk steel"]
+        },
+        "greatsword": {
+            "range": ["close"],
+            "wear": 2,
+            "value": 6,
+            "load": 2,
+            "skills": ["cleave", "storm a group"],
+            "tags": ["sharp", "large", "bulky"]
+        },
+        "smithy hammer": {
+            "range": ["intimate", "close"],
+            "wear": 2,
+            "value": 5,
+            "load": 1,
+            "skills": ["cleave"],
+            "tags": ["heavy bludgeon"]
+        },
+        "staff": {
+            "range": ["close"],
+            "wear": 2,
+            "value": 4,
+            "load": 1,
+            "skills": ["parry"],
+            "tags": ["blunted"]
+        },
+        "quarterstaff": {
+            "range": ["close"],
+            "wear": 3,
+            "value": 6,
+            "load": 1,
+            "skills": ["parry"],
+            "tags": ["reach", "blunted"]
+        }
+        ,
+        "shortbow": {
+            "range": ["close"],
+            "wear": 4,
+            "value": 6,
+            "load": 1,
+            "skills": ["quick shot"],
+            "tags": ["short limbs"]
+        }
+        ,
+        "rapier": {
+            "range": ["close"],
+            "wear": 2,
+            "value": 5,
+            "load": 1,
+            "skills": ["parry", "disarm"],
+            "tags": ["quick"]
+        }
+        ,
+        "recurve bow": {
+            "range": ["far"],
+            "wear": 3,
+            "value": 6,
+            "load": 1,
+            "skills": ["harry", "quick shot"],
+            "tags": ["short limbs"]
+        },
+        "saber": {
+            "range": ["close"],
+            "wear": 3,
+            "value": 5,
+            "load": 1,
+            "skills": ["disarm"],
+            "tags": ["ceremonial"]
+        },
+        "sickle": {
+            "range": ["close"],
+            "wear": 2,
+            "value": 4,
+            "load": 1,
+            "skills": ["cleave"],
+            "tags": ["sharp"]
+        },
+        "trick bow": {
+            "range": ["close"],
+            "wear": 4,
+            "value": 5,
+            "load": 1,
+            "skills": ["harry", "trick shot"],
+            "tags": []
+        }
+        ,
+        "crossbow": {
+            "range": ["close"],
+            "wear": 2,
+            "value": 6,
+            "load": 1,
+            "skills": ["trick shot"],
+            "tags": ["oiled string", "hair trigger", "iron bolts"]
+        },
+        "spear": {
+            "range": ["close"],
+            "wear": 3,
+            "value": 5,
+            "load": 1,
+            "skills": [],
+            "tags": ["reach", "throwable"]
+        },
+        "throwing axe": {
+            "range": ["close"],
+            "wear": 2,
+            "value": 5,
+            "load": 1,
+            "skills": [],
+            "tags": ["sharp", "throwable"]
+        },
+        "warhammer": {
+            "range": ["close"],
+            "wear": 2,
+            "value": 6,
+            "load": 1,
+            "skills": ["cleave"],
+            "tags": ["heavy bludgeon", "large"]
+        },
+        "sling and rocks": {
+            "range": ["close"],
+            "wear": 2,
+            "value": 3,
+            "load": 0,
+            "skills": ["harry a group"],
+            "tags": []
+        }
+    }
+}
